@@ -31,7 +31,7 @@ func main() {
 [![Releases](https://img.shields.io/github/release/jpillora/go-template-demo.svg)](https://github.com/jpillora/go-template-demo/releases)
 [![Releases](https://img.shields.io/github/downloads/jpillora/go-template-demo/total.svg)](https://github.com/jpillora/go-template-demo/releases)
 
-Find [the latest pre-compiled binaries here](https://github.com/jpillora/go-template-demo/releases/latest)
+Download [the latest pre-compiled binaries here](https://github.com/jpillora/go-template-demo/releases/latest) or install it now with `curl https://i.jpillora.com/jpillora/go-template-demo! | bash`
 
 **Source**
 
