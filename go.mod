@@ -1,3 +1,3 @@
 module github.com/jpillora/go-template-demo
 
-go 1.19
+go 1.24
